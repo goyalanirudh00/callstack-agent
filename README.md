@@ -1,6 +1,6 @@
 # Call Stack Dynamic Testing Agent
 
-An AI agent that performs **dynamic testing using call stack analysis** 
+An AI agent that performs **dynamic testing using call stack analysis.** 
 
 ## Call Stack vs Call Graph
 
